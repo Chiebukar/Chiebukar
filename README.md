@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chiebuka
-- 👀 I’m a Data Science enthusiat, with keen interest in computer vision and NLP
+- 👀 I’m a Data Science enthusiast, with keen interest in computer vision and NLP
 - 🌱 I’m currently learning advanced deep learning techniques in computer vision
 - 💞️ I’m looking to collaborate on real world  machine learning problems.
 - 📫  reach me by Email: sam23chuks@gmail.com
