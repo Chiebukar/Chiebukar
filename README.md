@@ -29,7 +29,7 @@ The data was web scraped, engineered and used to train a linear regression model
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/Chiebukar/AGER"><b>Movie Recommender App!</b></a></td>
+      <td><a href="https://github.com/Chiebukar/AGER"><b>AGER</b></a></td>
       <td> A project that  utilizes facial recognition to predict the age, gender, emotion and race attributes of users. <br>
       The image data was cleaned and used to train a deep learning model to recognize the attributes. 
 </td>
