@@ -6,11 +6,11 @@
   <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 - 🔭 I’m currently working  on Computer Vision features for Android applications.
-- 🌱 I’m currently Learning Software Engineering for Data Scientists  and the use of  Cloud Services in building and deploying Machine Learning Models.
+- 🌱 I’m currently learning Software Engineering for Data Scientists  and the use of  Cloud Services in building and deploying Machine Learning Models.
 - 👯 I’m looking to collaborate on  Data Science/Machine Learning/Computer  Vision  projects.
 - 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Computer Vision Engineer/Android Developer.
 - 💬 Ask me anything about Data Science/Machine Learning/Computer Vision and Android Development.
-- ⚡ Fun fact: ...Aside Programming I love to share contents about the technologies I have learnt on  <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
+- ⚡ Fun fact: ...Aside programming I love to share contents about the technologies I have learnt on  <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
 
 <h2>Sample Projects </h2>
 <table>
