@@ -1,4 +1,4 @@
-<H1 align='center'><i>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Samuel</H1><i>
+<H1 align='center'><i>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Chiebukar (Samuel Ozechi)</H1><i>
   
 ## I'm a Data Scientist and Android Developer.
 <p align='center'>
