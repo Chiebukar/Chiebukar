@@ -1,6 +1,6 @@
 <H1 align='center'><i>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Chiebukar (Samuel Ozechi)</H1><i>
   
-## I'm a Data Scientist and Android Developer.
+## I'm a Data Scientist
 <p align='center'>
   
   <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
