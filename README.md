@@ -1,16 +1,13 @@
-<H1 align='center'><i>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Chiebuka (Samuel Ozechi)</H1><i>
+<H1 align='center'><i>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> I'm Chiebuka</H1><i>
   
-## I'm a Data Scientist
 <p align='center'>
   
   <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-- 🔭 I’m currently working  on Computer Vision features for Android applications.
-- 🌱 I’m currently learning Software Engineering for Data Scientists  and the use of  Cloud Services in building and deploying Machine Learning Models.
-- 👯 I’m looking to collaborate on  Data Science/Machine Learning/Computer  Vision  projects.
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Computer Vision Engineer/Android Developer.
-- 💬 Ask me anything about Data Science/Machine Learning/Computer Vision and Android Development.
-- ⚡ Fun fact: ...Aside programming I love to share contents about the technologies I have learnt on  <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
+- 🔭 I’m currently exploring the integration of machine learning features for Android applications.
+- 🌱 I’m currently learning Software Engineering for Data Scientists (CI/CD, MLops)
+- 👯 I’m open to collaborating on enterprise Machine Learning projects.
+- ⚡ ...Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
 
 <h2>Sample Projects </h2>
 <table>
@@ -25,20 +22,20 @@
       <td><a href="https://github.com/Chiebukar/Lagos-rent-prediction"><b>LagHP app</b></a></td>
       <td> A Web app that gives users the possible rent of houses according to the user's location of choice in and around Lagos State, South West, Nigeria.
    <br>
-The data was web scraped, engineered and used to train a linear regression model. HTML and CSS were used to create front end while JavaScript and Flask server was used for the back end. The project is hosted on Heroku https://laghp.herokuapp.com/ and added to a custom domain of http://www.laghp.ml/</td>
+The data was web-scraped, engineered and used to train a linear regression model. HTML and CSS were used to create the front end while JavaScript and Flask server was used for the back end. The project is hosted on Heroku https://laghp.herokuapp.com/ and added to a custom domain of http://www.laghp.ml/</td>
     </tr>
     <tr>
     <tr>
       <td><a href="https://github.com/Chiebukar/AGER"><b>AGER</b></a></td>
       <td> A project that  utilizes facial recognition to predict the age, gender, emotion and race attributes of users. <br>
-      The image data was cleaned and used to train a deep learning model to recognize the attributes. 
+      The image data was cleaned to train a deep-learning model to recognize the attributes. 
 </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Chiebukar/Footballers_Ability_Clustering"><b>Footballers Cluster</b></a></td>
-      <td> A project to  discover top footballers that share similar abilities  and techniques.
-       The data was processed and used to create ability based clusters using DBSCAN, Affinity propagation, Hierarchical Clustering and KMeans Clustering techniques.</td>
+      <td> A project to  discover top footballers who share similar abilities  and techniques.
+       The data was processed and used to create ability-based clusters using DBSCAN, Affinity propagation, Hierarchical Clustering and KMeans Clustering techniques.</td>
     </tr>
  
   </tbody>
