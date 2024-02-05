@@ -44,7 +44,7 @@ The data was web-scraped, engineered and used to train a linear regression model
   ### Connect with me!
 
 <p align='center'>
-<a href="https://twitter.com/Chiebukarr">
+<a href="https://twitter.com/0zexhi">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:chiebuka.ng@gmail.com">
