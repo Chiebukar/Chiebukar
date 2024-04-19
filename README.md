@@ -35,7 +35,7 @@ The data was web-scraped, engineered and used to train a linear regression model
       <td>
       <a href="https://chiebuka-movie-recommender.streamlit.app/"><b>Movie Recommendation System</b></a></td>
       <td> A Content-based movie recommendation system that utilizes content similarity to suggest similar movies to users.
-       he system recommends movies based on their similarity with selected movies. Relevant content features such as genre, keywords, cast, crew and storyline are used to identify and recommend similar movies.</td>
+        Relevant content features such as genre, keywords, cast, crew and storyline are used to identify and recommend similar movies.</td>
     </tr>
  
   </tbody>
