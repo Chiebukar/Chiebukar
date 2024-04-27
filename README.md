@@ -22,7 +22,7 @@
       <td><a href="https://laghp.onrender.com/"><b>LagHP (Lagos House Rent Prediction </b></a></td>
       <td> A Web app that gives users the possible rent of houses according to the user's location of choice in and around Lagos State, South West, Nigeria.
    <br>
-The data was web-scraped, engineered and used to train a linear regression model. HTML and CSS were used to create the front end while JavaScript and Flask server was used for the back end. The project is hosted on Heroku https://laghp.herokuapp.com/ and added to a custom domain of http://www.laghp.ml/</td>
+The data was web-scraped, engineered and used to train a linear regression model. HTML and CSS were used to create the front end while JavaScript and Flask server was used for the back end. The project is hosted on https://laghp.onrender.com/</td>
     </tr>
     <tr>
     <tr>
