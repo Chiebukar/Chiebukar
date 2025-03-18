@@ -8,38 +8,6 @@
 - 🌱 I’m learning Software Engineering for Data Scientists (CI/CD, MLops)
 - 👯 I’m open to collaborating on enterprise Machine Learning projects.
 - ⚡ ...Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
-
-<h2>Sample Projects </h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>☀️ Projects</b></td>
-      <td><b>💬 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td><a href="https://laghp.onrender.com/"><b>LagHP (Lagos House Rent Prediction </b></a></td>
-      <td> A Web app that gives users the possible rent of houses according to the user's location of choice in and around Lagos State, South West, Nigeria.
-   <br>
-The data was web-scraped, engineered and used to train a linear regression model. HTML and CSS were used to create the front end while JavaScript and Flask server was used for the back end. The project is hosted on https://laghp.onrender.com/</td>
-    </tr>
-    <tr>
-    <tr>
-      <td><a href="https://github.com/Chiebukar/AGER"><b>AGER</b></a></td>
-      <td> A project that  utilizes facial recognition to predict the age, gender, emotion and race attributes of users. <br>
-      The image data was cleaned to train a deep-learning model to recognize the attributes. 
-</td>
-    </tr>
-    <tr>
-      <td>
-      <a href="https://chiebuka-movie-recommender.streamlit.app/"><b>Movie Recommender</b></a></td>
-      <td> A Content-based movie recommendation system that utilizes content similarity to suggest similar movies to users.
-        Relevant content features such as genre, keywords, cast, crew and storyline are used to identify and recommend similar movies.</td>
-    </tr>
- 
-  </tbody>
-</table>
   
   ### Connect with me!
 
