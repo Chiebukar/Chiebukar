@@ -4,10 +4,10 @@
   
   <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-- 🔭 I’m currently exploring the integration of machine learning features for mobile applications.
+- 🔭 I’m currently exploring intrusive threat detection using deep learning methodologies.
 - 🌱 I’m learning Software Engineering for Data Scientists (CI/CD, MLops)
 - 👯 I’m open to collaborating on enterprise Machine Learning projects.
-- ⚡ ...Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
+- ⚡ Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
   
   ### Connect with me!
 
