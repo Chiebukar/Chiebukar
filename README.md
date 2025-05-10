@@ -7,8 +7,7 @@
 - 🔭 I’m currently exploring anomaly detection using modern deep learning methodologies.
 - 🌱 I’m learning about operationalizing machine Learning models (MLops)
 - 👯 I’m open to data science and machine learning roles, or collaborating on enterprise Machine Learning projects.
-- ⚡ Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
-  
+- ⚡ Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a>.
   ### Connect with me!
 
 <p align='center'>
