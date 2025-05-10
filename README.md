@@ -25,12 +25,6 @@
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
 </a>&nbsp;&nbsp; 
 
-### Latest Blogpost
-<!--BLOG-POST-LIST:START -->
-<!--BLOG-POST-LIST:END -->
-
----
-
 
 ### Worked with 
 
