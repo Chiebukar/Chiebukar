@@ -4,9 +4,9 @@
   
   <img align="right" alt="Coder GIF" height=250 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-- 🔭 I’m currently exploring intrusive threat detection using deep learning methodologies.
-- 🌱 I’m learning Software Engineering for Data Scientists (CI/CD, MLops)
-- 👯 I’m open to collaborating on enterprise Machine Learning projects.
+- 🔭 I’m currently exploring anomaly detection using modern deep learning methodologies.
+- 🌱 I’m learning about operationalizing machine Learning models (MLops)
+- 👯 I’m open to data science and machine learning roles, or collaborating on enterprise Machine Learning projects.
 - ⚡ Aside from programming, I share content about machine learning methods and tools on <a href="https://samuel-ozechi.medium.com/"><b>medium</b></a> and <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/"><b>LinkedIn </b></a> 
   
   ### Connect with me!
@@ -15,10 +15,10 @@
 <a href="https://twitter.com/0zexhi">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:chiebuka.ng@gmail.com">
+<a href="mailto:SamuelOzechi@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samuel-ozechi-b9b1781b6/">
+  <a href="https://www.linkedin.com/in/samuel-ozechi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
   <a href="https://samuel-ozechi.medium.com/">                                                                               
